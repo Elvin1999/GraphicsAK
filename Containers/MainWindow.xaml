@@ -122,5 +122,192 @@
         </Canvas>-->
 
 
+
+
+        <!--<Canvas Background="DeepSkyBlue">
+            <Ellipse Panel.ZIndex="2" Fill="HotPink" Canvas.Left="-100" Width="200" Height="430" ></Ellipse>
+            <Ellipse Panel.ZIndex="1" Fill="SpringGreen" Canvas.Left="-50" Width="200" Height="430" ></Ellipse>
+            <Ellipse Panel.ZIndex="0" Fill="Orange" Canvas.Left="0" Width="200" Height="430" ></Ellipse>
+            <Rectangle Panel.ZIndex="3" Fill="Black" Stroke="White" StrokeThickness="6"
+                       Width="30" Height="30" Canvas.Left="150" Canvas.Top="200"
+                       ></Rectangle>
+        </Canvas>-->
+
+
+
+        
+        <!--<StackPanel>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+        </StackPanel>-->
+
+        <!--<WrapPanel Orientation="Horizontal">
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+            <Button Width="150" Margin="10" Height="50">Salam</Button>
+        </WrapPanel>-->
+
+
+        <!--<DockPanel Background="Red">
+            <Button DockPanel.Dock="Bottom"  Background="Black" Foreground="White" Content="Copyright facebook" ></Button>
+            <Button DockPanel.Dock="Left"  Background="Black" Foreground="White" Content="Left ADV" ></Button>
+            <Button DockPanel.Dock="Right"  Background="Black" Foreground="White" Content="I am button 2" ></Button>
+            <Button DockPanel.Dock="Right"  Background="Black" Foreground="White" Content="I am button 2" ></Button>
+        </DockPanel>-->
+
+
+        <!--<Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0" Background="Yellow">
+                
+            </Grid>
+
+            <Grid Grid.Row="1" Background="Red">
+                
+            </Grid>
+        </Grid>-->
+
+
+        <!--<Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0" Background="Yellow">
+
+            </Grid>
+
+            <Grid Grid.Row="1" Background="Red">
+
+            </Grid>
+            <Grid Grid.Row="2" Background="Green">
+
+            </Grid>
+        </Grid>-->
+
+
+        <!--<Grid >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0" Background="Orange"></StackPanel>
+            <StackPanel Grid.Column="1" Background="Red"></StackPanel>
+            <StackPanel Grid.Column="2" Background="SpringGreen"></StackPanel>
+        </Grid>-->
+
+        <!--<Grid >
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Row="0" Grid.Column="0" Background="LightGoldenrodYellow" ></Grid>
+            <Grid Grid.Row="0" Grid.Column="1" Background="Red" ></Grid>
+            <Grid Grid.Row="0" Grid.Column="2" Background="LightBlue" ></Grid>
+            <Grid Grid.Row="1" Grid.Column="0" Background="AliceBlue" ></Grid>
+            <Grid Grid.Row="1" Grid.Column="1" Background="Orange" ></Grid>
+            <Grid Grid.Row="1" Grid.Column="2" Background="Gray" ></Grid>
+            
+         
+        </Grid>-->
+
+
+
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="7*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+
+
+            <!--<Grid Background="Red"></Grid>
+            <Grid Grid.Row="1" Background="Yellow">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="5*"/>
+                        <ColumnDefinition Width="1*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Background="DeepSkyBlue">
+                        
+                    </Grid>
+
+                    <Grid Grid.Column="1" Background="LightCoral">
+                        
+                    </Grid>
+                    
+                </Grid>
+            </Grid>-->
+
+
+        </Grid>
+
+            <!--<Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+
+            <Grid Grid.ColumnSpan="2" Background="Aqua"  Grid.Column="0" Grid.Row="0" ></Grid>
+            <Grid Background="Orange"  Grid.Column="2" Grid.Row="0" ></Grid>
+            <Grid Grid.RowSpan="2" Background="SpringGreen"  Grid.Column="0" Grid.Row="1" ></Grid>
+            <Grid Background="Yellow"  Grid.Column="1" Grid.Row="1" ></Grid>
+            <Grid Background="RosyBrown"  Grid.Column="2" Grid.Row="1" ></Grid>
+            <Grid Background="BlueViolet"  Grid.Column="1" Grid.Row="2" ></Grid>
+            <Grid Background="DeepPink"  Grid.Column="2" Grid.Row="2" ></Grid>
+            </Grid>-->
+            
+            
+            
+
+
+
     </Grid>
 </Window>
